@@ -1,0 +1,52 @@
+.nav-item {
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 13px;
+}
+
+.navbar {
+  background-color: #ffd700;
+}
+
+.carousel-item {
+  margin-top: 20px;
+  height: auto;
+}
+
+.jumbotron {
+  background-color: #e2edff;
+  height: 480px;
+  padding-left: 250px;
+  padding-top: 150px;
+  width: 81rem;
+  margin-left: 312px;
+  margin-top: 25px;
+  box-shadow: 3px 3px 5px grey;
+}
+
+.rounded-circle {
+  float: left;
+  margin-right: 50px;
+  margin-top: -50px;
+  box-shadow: 3px 3px 3px #aaa;
+}
+
+.aboutme {
+  background-color: #e2edff;
+  padding: 30px;
+  padding-left: 200px;
+}
+
+.p {
+  margin: 50px 0 0 200px;
+  font-size: 20px;
+}
+
+#contact {
+  margin-top: 120px;
+}
+
+.float {
+  float: left;
+}
